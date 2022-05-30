@@ -9,6 +9,6 @@ Instalar os pacotes necessários estando dentro do diretório:
 
   npm install
 
-Rodar:
-
-  usando npm run dev
+Rodar usando:
+  
+  npm run dev
